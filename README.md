@@ -1,32 +1,29 @@
 # Projeto de Estatística Aplicada
 
-## 🧑‍💻 Autores  
-- Nome 1 (matrícula) - email  
-- Nome 2 (matrícula) - email  
-- Nome 3 (matrícula) - email  
+## 🧑‍💻 Autor
+- Juan Bismarck (202421250037) - juan.bismarck@academico.ifpb.edu.br
 
 ## 🎯 Tema e Motivação  
-Descreva em até dois parágrafos o tema que será investigado no projeto e a motivação da equipe para essa escolha.  
-Explique por que esse tema é relevante ou interessante do ponto de vista estatístico ou social.
+Este projeto tem objeivo de analisar o desempenho de jogadores nas 5 principais ligas do futebol europeu (Alemanha,Espanha,França,Inglaterra,Itália) na atual temporada, buscando os destaques de cada segmento como a liga, a nacionalidade e a posição que o jogador atua, possiveis surpresas e jogadores promissores para ficar de olho.
 
 ## 📊 Conjunto de Dados Selecionado  
-- **Nome do conjunto de dados:**  
-  (Exemplo: "World Happiness Report", "ENEM 2023", "IBGE - PNAD Contínua", "Kaggle - Netflix Movies", etc.)
+Football Players Stats (2024-2025)
 
 - **Fonte:**  
-  (Link ou citação da base de dados)
+https://www.kaggle.com/datasets/hubertsidorowicz/football-players-stats-2024-2025
 
 - **Descrição breve:**  
-  Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.  
+A base apresenta dados de jogadores das 5 principais ligas com variáveis que vão do básico como nacionalidade, posição e clube até dados mais avançados como gols esperados e passes progressivos
 
 - **Justificativa para a escolha:**  
-  Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
-
+Essa base de dados permite análises interessantes já que apresenta grande diversidade de variáveis, possibilitando uma análise especificada para a posição do jogador em questão, por exemplo, um atacante será analisado a partir de parâmetros condizentes com a função que exerce, como gols e finalizações enquanto um goleiro será analisado a partir de parâmetros como gols evitados e jogos sem sofrer gols 
 ---
 
 ## ❓ Perguntas ou Hipóteses  
-*Começar a planejar com perguntas de Estatística Descritiva*  
-Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
+Quem é o brasileiro com maior número de gols na atual temporada ?
+Quais são os jogadores que se destacam em mais de uma métrica?
+Podemos identificar jogadores subestimados ?
+Quem são as possíveis promessas para os próximos anos? (jogadores jovens com bom desempenho)
 
 ## 🔍 Metodologia  
 *A preencher na próxima etapa.*  
