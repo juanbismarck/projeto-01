@@ -24,8 +24,6 @@ Essa base de dados permite análises interessantes já que apresenta grande dive
 
 - Quais são os jogadores que se destacam em mais de uma métrica?
 
-- Podemos identificar jogadores subestimados ?
-
 - Quem são as possíveis promessas para os próximos anos? (jogadores jovens com bom desempenho)
 
 ## 🔍 Metodologia  
